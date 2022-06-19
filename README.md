@@ -10,5 +10,3 @@
 <li style="text-align: center;">Direct Transfer Of ETH To Your Wallet</li>
 </ol>
 <p>&nbsp;</p>
-<h1 style="text-align: center;">How To Buy:<br /><br /></h1>
-<h3 style="text-align: center;">Message @nftdrainer On Telegram.<br />Price Of The Script Is Currently 2ETH<br />Trusted Middleman Accepted.</h3>
